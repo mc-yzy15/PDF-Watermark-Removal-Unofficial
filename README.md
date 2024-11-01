@@ -2,6 +2,7 @@
 由于有时在抄别人的实验报告会带上水印，所以做了个pdf水印去除的工具，所有类型pdf都可用。
 [![github](https://github.com/user-attachments/assets/73b76120-9b43-4dd6-a649-a228463fc03d)](https://github.com/mc-yzy15/PDF-Watermark-Removal-Unofficial)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+如无法使用，请使用[这个](https://setpdf.com/zh-CN/remove-watermark)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PDF-Watermark-Removal-Unofficial/PDF-Watermark-Removal-Unofficial&type=Date)](https://star-history.com/#PDF-Watermark-Removal-Unofficial/PDF-Watermark-Removal-Unofficial&Date)
