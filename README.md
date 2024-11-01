@@ -1,6 +1,6 @@
-# PDF-Watermark-Removal
+# PDF-Watermark-Removal-UNOFFICIAL
 由于有时在抄别人的实验报告会带上水印，所以做了个pdf水印去除的工具，所有类型pdf都可用。
-
+[github](https://github.com/mc-yzy15/PDF-Watermark-Removal-Unofficial)
 ## **需要的库：**
 
 pip install opencv-python
